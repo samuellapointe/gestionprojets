@@ -1,7 +1,7 @@
 # gestionprojets
 
- * Chaque membre doit effectuer au moins deux modifications
+ * Cada miembro debe hacer al menos dos cambios
 
- * Il faut au moins une branche distincte sur le projet.
+ * Se necesitan al menos una rama separada en el proyecto.
 
- * Il faut aussi prendre des captures d'écran de ce qu'on a fait
+ * También hay que tomar capturas de pantalla de lo que hicimos
